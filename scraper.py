@@ -99,7 +99,7 @@ def scrape_script():
             print "scraping page %d for search term %s" % (counter, term)
             scrape_page(soup, itms_offset, brand_list, my_dat, cur_date, term)
 
-    with open('brands.csv', 'wb') as csvfile:
+    with open('brands.csv', 'ab') as csvfile:
         brandwriter = csv.writer(csvfile, delimiter=',')
         for brand in brand_list:
             for data_pt in my_dat[brand]:

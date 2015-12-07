@@ -1,3 +1,4 @@
+Brand,search term, rating, number of ratings, search ranking, date
 Cheerios,cereal,5.0,204,1,03/12/2015
 Cheerios,cereal,5.0,204,14,03/12/2015
 Cheerios,cereal,4.5,45,16,03/12/2015
@@ -409,3 +410,414 @@ Post,cold cereal,5.0,2,339,03/12/2015
 Post,cold cereal,-1.0,-1,351,03/12/2015
 Post,cold cereal,3.5,3,352,03/12/2015
 Post,cold cereal,-1.0,-1,490,03/12/2015
+Cheerios,cereal,5.0,204,1,05/12/2015
+Cheerios,cereal,4.5,45,13,05/12/2015
+Cheerios,cereal,5.0,204,17,05/12/2015
+Cheerios,cereal,5.0,14,23,05/12/2015
+Cheerios,cereal,5.0,4,30,05/12/2015
+Cheerios,cereal,5.0,16,34,05/12/2015
+Cheerios,cereal,5.0,185,46,05/12/2015
+Cheerios,cereal,4.5,22,67,05/12/2015
+Cheerios,cereal,5.0,8,91,05/12/2015
+Cheerios,cereal,5.0,10,107,05/12/2015
+Cheerios,cereal,4.5,39,141,05/12/2015
+Cheerios,cereal,4.5,40,142,05/12/2015
+Cheerios,cereal,4.5,29,150,05/12/2015
+Cheerios,cereal,4.5,25,153,05/12/2015
+Cheerios,cereal,4.5,32,154,05/12/2015
+Cheerios,cereal,4.5,30,155,05/12/2015
+Cheerios,cereal,5.0,186,157,05/12/2015
+Cheerios,cereal,4.5,30,174,05/12/2015
+Cheerios,cereal,5.0,17,191,05/12/2015
+Cheerios,cereal,4.5,13,192,05/12/2015
+Cheerios,cereal,5.0,14,207,05/12/2015
+Cheerios,cereal,5.0,18,222,05/12/2015
+Cheerios,cereal,4.5,45,250,05/12/2015
+Cheerios,cereal,4.5,40,251,05/12/2015
+Cheerios,cereal,5.0,204,261,05/12/2015
+Cheerios,cereal,3.5,3,285,05/12/2015
+Cheerios,cereal,4.5,38,315,05/12/2015
+Cheerios,cereal,5.0,10,398,05/12/2015
+Cheerios,cereal,-1.0,-1,434,05/12/2015
+Cheerios,cereal,4.5,18,739,05/12/2015
+Cheerios,cereal,5.0,2,744,05/12/2015
+Cheerios,cold cereal,5.0,204,1,05/12/2015
+Cheerios,cold cereal,5.0,185,7,05/12/2015
+Cheerios,cold cereal,5.0,204,9,05/12/2015
+Cheerios,cold cereal,5.0,14,23,05/12/2015
+Cheerios,cold cereal,4.5,22,31,05/12/2015
+Cheerios,cold cereal,4.5,45,33,05/12/2015
+Cheerios,cold cereal,5.0,16,36,05/12/2015
+Cheerios,cold cereal,5.0,8,56,05/12/2015
+Cheerios,cold cereal,5.0,10,63,05/12/2015
+Cheerios,cold cereal,5.0,4,104,05/12/2015
+Cheerios,cold cereal,4.5,39,160,05/12/2015
+Cheerios,cold cereal,5.0,186,165,05/12/2015
+Cheerios,cold cereal,4.5,40,166,05/12/2015
+Cheerios,cold cereal,4.5,29,173,05/12/2015
+Cheerios,cold cereal,4.5,30,174,05/12/2015
+Cheerios,cold cereal,4.5,25,175,05/12/2015
+Cheerios,cold cereal,4.5,30,184,05/12/2015
+Cheerios,cold cereal,5.0,17,193,05/12/2015
+Cheerios,cold cereal,5.0,14,204,05/12/2015
+Cheerios,cold cereal,4.5,32,206,05/12/2015
+Cheerios,cold cereal,4.5,13,217,05/12/2015
+Cheerios,cold cereal,4.5,40,239,05/12/2015
+Cheerios,cold cereal,4.5,45,241,05/12/2015
+Cheerios,cold cereal,5.0,204,243,05/12/2015
+Cheerios,cold cereal,5.0,18,245,05/12/2015
+Cheerios,cold cereal,3.5,3,267,05/12/2015
+Cheerios,cold cereal,4.5,38,280,05/12/2015
+Cheerios,cold cereal,5.0,10,349,05/12/2015
+Cheerios,cold cereal,-1.0,-1,370,05/12/2015
+Cheerios,cold cereal,5.0,2,491,05/12/2015
+Kashi,cereal,4.5,13,62,05/12/2015
+Kashi,cereal,5.0,1,79,05/12/2015
+Kashi,cereal,-1.0,-1,88,05/12/2015
+Kashi,cereal,4.0,8,115,05/12/2015
+Kashi,cereal,5.0,11,116,05/12/2015
+Kashi,cereal,-1.0,-1,117,05/12/2015
+Kashi,cereal,5.0,18,119,05/12/2015
+Kashi,cereal,5.0,16,122,05/12/2015
+Kashi,cereal,4.5,12,170,05/12/2015
+Kashi,cereal,4.0,8,176,05/12/2015
+Kashi,cereal,5.0,16,182,05/12/2015
+Kashi,cereal,5.0,1,215,05/12/2015
+Kashi,cereal,5.0,2,227,05/12/2015
+Kashi,cereal,4.0,17,232,05/12/2015
+Kashi,cereal,5.0,21,240,05/12/2015
+Kashi,cereal,-1.0,-1,243,05/12/2015
+Kashi,cereal,-1.0,-1,383,05/12/2015
+Kashi,cereal,-1.0,-1,414,05/12/2015
+Kashi,cereal,-1.0,-1,418,05/12/2015
+Kashi,cereal,-1.0,-1,423,05/12/2015
+Kashi,cereal,-1.0,-1,443,05/12/2015
+Kashi,cereal,-1.0,-1,484,05/12/2015
+Kashi,cereal,-1.0,-1,496,05/12/2015
+Kashi,cereal,-1.0,-1,572,05/12/2015
+Kashi,cereal,-1.0,-1,606,05/12/2015
+Kashi,cereal,-1.0,-1,700,05/12/2015
+Kashi,cereal,4.5,2,767,05/12/2015
+Kashi,cereal,5.0,2,777,05/12/2015
+Kashi,cereal,-1.0,-1,781,05/12/2015
+Kashi,cereal,-1.0,-1,790,05/12/2015
+Kashi,cereal,-1.0,-1,794,05/12/2015
+Kashi,cereal,-1.0,-1,800,05/12/2015
+Kashi,cereal,-1.0,-1,818,05/12/2015
+Kashi,cereal,-1.0,-1,850,05/12/2015
+Kashi,cereal,4.5,8,861,05/12/2015
+Kashi,cereal,4.5,12,880,05/12/2015
+Kashi,cold cereal,-1.0,-1,40,05/12/2015
+Kashi,cold cereal,5.0,1,86,05/12/2015
+Kashi,cold cereal,4.0,8,103,05/12/2015
+Kashi,cold cereal,4.5,13,105,05/12/2015
+Kashi,cold cereal,5.0,16,113,05/12/2015
+Kashi,cold cereal,5.0,2,118,05/12/2015
+Kashi,cold cereal,5.0,11,124,05/12/2015
+Kashi,cold cereal,4.5,12,125,05/12/2015
+Kashi,cold cereal,5.0,16,132,05/12/2015
+Kashi,cold cereal,5.0,1,212,05/12/2015
+Kashi,cold cereal,4.0,8,213,05/12/2015
+Kashi,cold cereal,4.0,17,225,05/12/2015
+Kashi,cold cereal,5.0,21,231,05/12/2015
+Kashi,cold cereal,-1.0,-1,234,05/12/2015
+Kashi,cold cereal,-1.0,-1,325,05/12/2015
+Kashi,cold cereal,-1.0,-1,346,05/12/2015
+Kashi,cold cereal,-1.0,-1,358,05/12/2015
+Kashi,cold cereal,-1.0,-1,364,05/12/2015
+Kashi,cold cereal,-1.0,-1,376,05/12/2015
+Kashi,cold cereal,-1.0,-1,392,05/12/2015
+Kashi,cold cereal,-1.0,-1,398,05/12/2015
+Kashi,cold cereal,-1.0,-1,455,05/12/2015
+Kashi,cold cereal,-1.0,-1,490,05/12/2015
+Kashi,cold cereal,-1.0,-1,514,05/12/2015
+Kashi,cold cereal,-1.0,-1,526,05/12/2015
+Kashi,cold cereal,-1.0,-1,532,05/12/2015
+Kashi,cold cereal,-1.0,-1,542,05/12/2015
+Kashi,cold cereal,-1.0,-1,628,05/12/2015
+Kellogg's,cereal,4.5,117,2,05/12/2015
+Kellogg's,cereal,5.0,46,7,05/12/2015
+Kellogg's,cereal,5.0,60,8,05/12/2015
+Kellogg's,cereal,5.0,62,12,05/12/2015
+Kellogg's,cereal,4.5,52,14,05/12/2015
+Kellogg's,cereal,4.5,31,15,05/12/2015
+Kellogg's,cereal,4.5,46,18,05/12/2015
+Kellogg's,cereal,5.0,62,25,05/12/2015
+Kellogg's,cereal,4.5,44,33,05/12/2015
+Kellogg's,cereal,5.0,123,35,05/12/2015
+Kellogg's,cereal,5.0,52,38,05/12/2015
+Kellogg's,cereal,5.0,45,40,05/12/2015
+Kellogg's,cereal,4.5,28,41,05/12/2015
+Kellogg's,cereal,5.0,32,43,05/12/2015
+Kellogg's,cereal,4.5,19,51,05/12/2015
+Kellogg's,cereal,5.0,27,53,05/12/2015
+Kellogg's,cereal,5.0,94,55,05/12/2015
+Kellogg's,cereal,5.0,67,63,05/12/2015
+Kellogg's,cereal,4.5,117,71,05/12/2015
+Kellogg's,cereal,-1.0,-1,74,05/12/2015
+Kellogg's,cereal,5.0,21,77,05/12/2015
+Kellogg's,cereal,4.5,117,81,05/12/2015
+Kellogg's,cereal,5.0,31,98,05/12/2015
+Kellogg's,cereal,5.0,17,102,05/12/2015
+Kellogg's,cereal,4.5,54,104,05/12/2015
+Kellogg's,cereal,5.0,35,108,05/12/2015
+Kellogg's,cereal,-1.0,-1,111,05/12/2015
+Kellogg's,cereal,4.5,24,118,05/12/2015
+Kellogg's,cereal,4.5,49,121,05/12/2015
+Kellogg's,cereal,3.0,1,123,05/12/2015
+Kellogg's,cereal,5.0,22,131,05/12/2015
+Kellogg's,cereal,5.0,23,132,05/12/2015
+Kellogg's,cereal,5.0,112,133,05/12/2015
+Kellogg's,cereal,4.5,86,140,05/12/2015
+Kellogg's,cereal,5.0,16,147,05/12/2015
+Kellogg's,cereal,5.0,253,158,05/12/2015
+Kellogg's,cereal,5.0,13,159,05/12/2015
+Kellogg's,cereal,4.5,13,171,05/12/2015
+Kellogg's,cereal,5.0,50,173,05/12/2015
+Kellogg's,cereal,4.5,103,184,05/12/2015
+Kellogg's,cereal,4.5,68,186,05/12/2015
+Kellogg's,cereal,4.5,17,189,05/12/2015
+Kellogg's,cereal,5.0,91,196,05/12/2015
+Kellogg's,cereal,4.0,10,213,05/12/2015
+Kellogg's,cereal,4.5,13,214,05/12/2015
+Kellogg's,cereal,4.5,117,218,05/12/2015
+Kellogg's,cereal,4.5,31,219,05/12/2015
+Kellogg's,cereal,4.5,17,221,05/12/2015
+Kellogg's,cereal,4.5,11,225,05/12/2015
+Kellogg's,cereal,4.5,48,226,05/12/2015
+Kellogg's,cereal,4.5,24,229,05/12/2015
+Kellogg's,cereal,4.5,14,230,05/12/2015
+Kellogg's,cereal,4.5,16,237,05/12/2015
+Kellogg's,cereal,4.5,12,241,05/12/2015
+Kellogg's,cereal,5.0,80,248,05/12/2015
+Kellogg's,cereal,4.5,46,256,05/12/2015
+Kellogg's,cereal,5.0,3,259,05/12/2015
+Kellogg's,cereal,5.0,4,263,05/12/2015
+Kellogg's,cereal,4.5,12,264,05/12/2015
+Kellogg's,cereal,4.5,18,265,05/12/2015
+Kellogg's,cereal,5.0,86,269,05/12/2015
+Kellogg's,cereal,5.0,60,271,05/12/2015
+Kellogg's,cereal,4.5,73,280,05/12/2015
+Kellogg's,cereal,4.5,5,281,05/12/2015
+Kellogg's,cereal,5.0,108,283,05/12/2015
+Kellogg's,cereal,4.5,52,286,05/12/2015
+Kellogg's,cereal,4.5,8,288,05/12/2015
+Kellogg's,cereal,5.0,14,294,05/12/2015
+Kellogg's,cereal,4.5,52,295,05/12/2015
+Kellogg's,cereal,5.0,11,296,05/12/2015
+Kellogg's,cereal,5.0,7,298,05/12/2015
+Kellogg's,cereal,4.5,117,300,05/12/2015
+Kellogg's,cereal,4.5,10,303,05/12/2015
+Kellogg's,cereal,4.5,3,312,05/12/2015
+Kellogg's,cereal,4.5,31,316,05/12/2015
+Kellogg's,cereal,4.5,46,320,05/12/2015
+Kellogg's,cereal,5.0,3,324,05/12/2015
+Kellogg's,cereal,4.5,31,329,05/12/2015
+Kellogg's,cereal,5.0,1,337,05/12/2015
+Kellogg's,cereal,5.0,33,340,05/12/2015
+Kellogg's,cereal,4.5,32,348,05/12/2015
+Kellogg's,cereal,4.0,1,352,05/12/2015
+Kellogg's,cereal,4.5,9,376,05/12/2015
+Kellogg's,cereal,-1.0,-1,381,05/12/2015
+Kellogg's,cereal,-1.0,-1,396,05/12/2015
+Kellogg's,cereal,1.0,1,404,05/12/2015
+Kellogg's,cereal,5.0,62,409,05/12/2015
+Kellogg's,cereal,-1.0,-1,410,05/12/2015
+Kellogg's,cereal,5.0,11,417,05/12/2015
+Kellogg's,cereal,-1.0,-1,428,05/12/2015
+Kellogg's,cereal,-1.0,-1,431,05/12/2015
+Kellogg's,cereal,-1.0,-1,432,05/12/2015
+Kellogg's,cereal,-1.0,-1,436,05/12/2015
+Kellogg's,cereal,-1.0,-1,437,05/12/2015
+Kellogg's,cereal,-1.0,-1,438,05/12/2015
+Kellogg's,cereal,4.0,4,439,05/12/2015
+Kellogg's,cereal,5.0,1,452,05/12/2015
+Kellogg's,cereal,-1.0,-1,453,05/12/2015
+Kellogg's,cereal,-1.0,-1,455,05/12/2015
+Kellogg's,cereal,-1.0,-1,456,05/12/2015
+Kellogg's,cereal,-1.0,-1,461,05/12/2015
+Kellogg's,cereal,-1.0,-1,469,05/12/2015
+Kellogg's,cereal,-1.0,-1,488,05/12/2015
+Kellogg's,cereal,-1.0,-1,490,05/12/2015
+Kellogg's,cereal,5.0,5,491,05/12/2015
+Kellogg's,cereal,-1.0,-1,493,05/12/2015
+Kellogg's,cereal,-1.0,-1,494,05/12/2015
+Kellogg's,cereal,4.5,34,502,05/12/2015
+Kellogg's,cereal,-1.0,-1,505,05/12/2015
+Kellogg's,cereal,-1.0,-1,507,05/12/2015
+Kellogg's,cereal,-1.0,-1,510,05/12/2015
+Kellogg's,cereal,-1.0,-1,513,05/12/2015
+Kellogg's,cereal,-1.0,-1,544,05/12/2015
+Kellogg's,cereal,-1.0,-1,546,05/12/2015
+Kellogg's,cereal,-1.0,-1,550,05/12/2015
+Kellogg's,cereal,2.0,1,573,05/12/2015
+Kellogg's,cereal,-1.0,-1,599,05/12/2015
+Kellogg's,cereal,4.0,340,630,05/12/2015
+Kellogg's,cereal,2.0,1,782,05/12/2015
+Kellogg's,cereal,-1.0,-1,789,05/12/2015
+Kellogg's,cereal,3.0,1,844,05/12/2015
+Kellogg's,cereal,4.5,13,860,05/12/2015
+Kellogg's,cereal,4.5,31,887,05/12/2015
+Kellogg's,cereal,-1.0,-1,895,05/12/2015
+Kellogg's,cereal,4.5,107,916,05/12/2015
+Kellogg's,cereal,4.5,24,934,05/12/2015
+Kellogg's,cereal,5.0,45,947,05/12/2015
+Kellogg's,cereal,4.5,67,972,05/12/2015
+Kellogg's,cereal,-1.0,-1,996,05/12/2015
+Kellogg's,cold cereal,4.5,117,3,05/12/2015
+Kellogg's,cold cereal,4.5,52,5,05/12/2015
+Kellogg's,cold cereal,5.0,62,6,05/12/2015
+Kellogg's,cold cereal,5.0,60,8,05/12/2015
+Kellogg's,cold cereal,5.0,123,14,05/12/2015
+Kellogg's,cold cereal,5.0,45,20,05/12/2015
+Kellogg's,cold cereal,4.5,46,24,05/12/2015
+Kellogg's,cold cereal,4.5,28,27,05/12/2015
+Kellogg's,cold cereal,4.5,117,30,05/12/2015
+Kellogg's,cold cereal,5.0,52,42,05/12/2015
+Kellogg's,cold cereal,5.0,94,46,05/12/2015
+Kellogg's,cold cereal,5.0,23,47,05/12/2015
+Kellogg's,cold cereal,4.5,117,51,05/12/2015
+Kellogg's,cold cereal,5.0,17,64,05/12/2015
+Kellogg's,cold cereal,5.0,22,72,05/12/2015
+Kellogg's,cold cereal,5.0,62,75,05/12/2015
+Kellogg's,cold cereal,5.0,32,79,05/12/2015
+Kellogg's,cold cereal,5.0,112,85,05/12/2015
+Kellogg's,cold cereal,5.0,27,89,05/12/2015
+Kellogg's,cold cereal,4.5,31,90,05/12/2015
+Kellogg's,cold cereal,5.0,253,94,05/12/2015
+Kellogg's,cold cereal,5.0,21,98,05/12/2015
+Kellogg's,cold cereal,5.0,13,100,05/12/2015
+Kellogg's,cold cereal,4.5,54,102,05/12/2015
+Kellogg's,cold cereal,5.0,46,109,05/12/2015
+Kellogg's,cold cereal,5.0,35,110,05/12/2015
+Kellogg's,cold cereal,4.5,13,112,05/12/2015
+Kellogg's,cold cereal,4.5,86,119,05/12/2015
+Kellogg's,cold cereal,5.0,50,129,05/12/2015
+Kellogg's,cold cereal,4.5,44,133,05/12/2015
+Kellogg's,cold cereal,4.5,103,134,05/12/2015
+Kellogg's,cold cereal,3.0,1,136,05/12/2015
+Kellogg's,cold cereal,5.0,91,141,05/12/2015
+Kellogg's,cold cereal,4.5,24,145,05/12/2015
+Kellogg's,cold cereal,4.5,49,146,05/12/2015
+Kellogg's,cold cereal,4.5,19,154,05/12/2015
+Kellogg's,cold cereal,4.5,13,159,05/12/2015
+Kellogg's,cold cereal,4.5,3,169,05/12/2015
+Kellogg's,cold cereal,5.0,16,170,05/12/2015
+Kellogg's,cold cereal,4.0,1,171,05/12/2015
+Kellogg's,cold cereal,4.5,17,177,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,188,05/12/2015
+Kellogg's,cold cereal,4.0,10,196,05/12/2015
+Kellogg's,cold cereal,4.5,117,214,05/12/2015
+Kellogg's,cold cereal,4.5,17,216,05/12/2015
+Kellogg's,cold cereal,4.5,11,220,05/12/2015
+Kellogg's,cold cereal,4.5,24,222,05/12/2015
+Kellogg's,cold cereal,4.5,16,229,05/12/2015
+Kellogg's,cold cereal,4.5,12,233,05/12/2015
+Kellogg's,cold cereal,5.0,80,237,05/12/2015
+Kellogg's,cold cereal,4.5,12,244,05/12/2015
+Kellogg's,cold cereal,5.0,4,246,05/12/2015
+Kellogg's,cold cereal,4.5,18,247,05/12/2015
+Kellogg's,cold cereal,5.0,86,250,05/12/2015
+Kellogg's,cold cereal,5.0,7,251,05/12/2015
+Kellogg's,cold cereal,4.5,31,256,05/12/2015
+Kellogg's,cold cereal,4.5,5,257,05/12/2015
+Kellogg's,cold cereal,5.0,108,259,05/12/2015
+Kellogg's,cold cereal,4.5,73,260,05/12/2015
+Kellogg's,cold cereal,5.0,11,262,05/12/2015
+Kellogg's,cold cereal,4.5,14,263,05/12/2015
+Kellogg's,cold cereal,4.5,8,271,05/12/2015
+Kellogg's,cold cereal,5.0,14,274,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,276,05/12/2015
+Kellogg's,cold cereal,4.5,10,277,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,286,05/12/2015
+Kellogg's,cold cereal,4.5,31,290,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,292,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,296,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,297,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,298,05/12/2015
+Kellogg's,cold cereal,5.0,1,302,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,309,05/12/2015
+Kellogg's,cold cereal,4.5,52,311,05/12/2015
+Kellogg's,cold cereal,4.5,52,315,05/12/2015
+Kellogg's,cold cereal,4.5,9,327,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,332,05/12/2015
+Kellogg's,cold cereal,5.0,1,336,05/12/2015
+Kellogg's,cold cereal,4.5,31,338,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,340,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,344,05/12/2015
+Kellogg's,cold cereal,1.0,1,351,05/12/2015
+Kellogg's,cold cereal,4.0,4,353,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,361,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,362,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,366,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,373,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,374,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,375,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,382,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,384,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,386,05/12/2015
+Kellogg's,cold cereal,5.0,62,390,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,393,05/12/2015
+Kellogg's,cold cereal,5.0,5,402,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,405,05/12/2015
+Kellogg's,cold cereal,2.0,1,444,05/12/2015
+Kellogg's,cold cereal,-1.0,-1,495,05/12/2015
+Kellogg's,cold cereal,2.0,1,524,05/12/2015
+Kellogg's,cold cereal,4.5,31,535,05/12/2015
+Kellogg's,cold cereal,5.0,78,631,05/12/2015
+Post,cereal,5.0,47,4,05/12/2015
+Post,cereal,5.0,11,24,05/12/2015
+Post,cereal,5.0,47,26,05/12/2015
+Post,cereal,4.5,22,36,05/12/2015
+Post,cereal,5.0,21,45,05/12/2015
+Post,cereal,5.0,14,75,05/12/2015
+Post,cereal,5.0,36,84,05/12/2015
+Post,cereal,4.5,21,89,05/12/2015
+Post,cereal,5.0,19,96,05/12/2015
+Post,cereal,5.0,6,136,05/12/2015
+Post,cereal,4.5,14,139,05/12/2015
+Post,cereal,5.0,10,145,05/12/2015
+Post,cereal,4.0,7,178,05/12/2015
+Post,cereal,-1.0,-1,194,05/12/2015
+Post,cereal,5.0,3,195,05/12/2015
+Post,cereal,5.0,15,198,05/12/2015
+Post,cereal,5.0,16,209,05/12/2015
+Post,cereal,5.0,8,211,05/12/2015
+Post,cereal,5.0,9,223,05/12/2015
+Post,cereal,5.0,7,224,05/12/2015
+Post,cereal,4.5,7,239,05/12/2015
+Post,cereal,5.0,10,242,05/12/2015
+Post,cereal,4.5,5,260,05/12/2015
+Post,cereal,4.5,11,278,05/12/2015
+Post,cereal,5.0,7,354,05/12/2015
+Post,cereal,5.0,2,375,05/12/2015
+Post,cereal,5.0,8,420,05/12/2015
+Post,cereal,-1.0,-1,463,05/12/2015
+Post,cereal,3.5,3,467,05/12/2015
+Post,cereal,-1.0,-1,766,05/12/2015
+Post,cold cereal,5.0,21,13,05/12/2015
+Post,cold cereal,5.0,36,25,05/12/2015
+Post,cold cereal,5.0,47,32,05/12/2015
+Post,cold cereal,5.0,11,34,05/12/2015
+Post,cold cereal,4.5,14,76,05/12/2015
+Post,cold cereal,4.5,22,81,05/12/2015
+Post,cold cereal,5.0,47,88,05/12/2015
+Post,cold cereal,5.0,19,108,05/12/2015
+Post,cold cereal,4.5,7,167,05/12/2015
+Post,cold cereal,5.0,10,168,05/12/2015
+Post,cold cereal,4.0,7,187,05/12/2015
+Post,cold cereal,-1.0,-1,194,05/12/2015
+Post,cold cereal,5.0,3,195,05/12/2015
+Post,cold cereal,5.0,15,197,05/12/2015
+Post,cold cereal,5.0,16,207,05/12/2015
+Post,cold cereal,5.0,8,209,05/12/2015
+Post,cold cereal,5.0,9,218,05/12/2015
+Post,cold cereal,5.0,7,219,05/12/2015
+Post,cold cereal,5.0,10,232,05/12/2015
+Post,cold cereal,4.5,11,258,05/12/2015
+Post,cold cereal,5.0,8,300,05/12/2015
+Post,cold cereal,5.0,7,310,05/12/2015
+Post,cold cereal,5.0,2,326,05/12/2015
+Post,cold cereal,-1.0,-1,352,05/12/2015
+Post,cold cereal,3.5,3,354,05/12/2015
+Post,cold cereal,-1.0,-1,492,05/12/2015
